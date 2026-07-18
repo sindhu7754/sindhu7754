@@ -53,13 +53,14 @@ publications:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,aws,pytorch,tensorflow,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,docker,aws,azure,pytorch,tensorflow,githubactions&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Snort_IDS-FF6633?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/gRPC-1A73E8?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-4A4A4A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -71,11 +72,13 @@ publications:
 
 **hands-on**
 ```yaml
-backend:   FastAPI, REST, gRPC
-ml:        PyTorch, TensorFlow, Scikit-Learn
-systems:   Distributed Systems, Fault Tolerance, Docker
-security:  Snort IDS, Intrusion Detection, MITRE ATT&CK
-cloud:     AWS (EC2 / S3 / IAM), GitHub Actions
+backend:       FastAPI, REST, Node.js, gRPC
+ml:            PyTorch, TensorFlow, Scikit-Learn, Transformers, NLP-ASR
+data:          PostgreSQL, MySQL, SQLite
+systems:       Distributed Systems, Fault Tolerance, Docker, Docker Compose
+security:      Snort IDS, Intrusion Detection, MITRE ATT&CK
+cloud:         AWS (EC2 / S3 / IAM), Azure, GitHub Actions
+optimization:  Linear Programming (PuLP), Network Simulation
 ```
 
 </td>
