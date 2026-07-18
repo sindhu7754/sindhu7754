@@ -7,7 +7,7 @@
   <img src="LINK_TO_YOUR_PHOTO" width="140" style="border-radius:50%"/>
 -->
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Pillars_of_Creation_(NIRCam_Image).jpg" width="70%"/>
+<img src="https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2022/10/STScI-01GGF8H15VZ09MET9HFBRQX4S3.png/jcr:content/renditions/1155x2000.png" width="45%"/>
 <br><sub><i>Pillars of Creation, Eagle Nebula — NASA, ESA, CSA, STScI</i></sub>
 
 <br><br>
