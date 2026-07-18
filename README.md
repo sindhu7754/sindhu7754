@@ -1,15 +1,15 @@
 <div align="center">
 
-<sub><code>/code></sub>
+<sub><code>// profile</code></sub>
 
 # S Prathima Sindhu Varshini
 
-<i>systems that fail gracefully — signals that hide in noise — questions with no tidy answers yet</i>
+<i>CSE undergrad, poking at systems until they tell me why they broke</i>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&duration=3200&pause=1000&color=6FC7C1&center=true&vCenter=true&width=820&lines=still+hunting+for+the+anomaly+hiding+in+the+logs;half+in+cybersecurity%2C+half+wondering+what%27s+under+the+ocean+floor;curious+about+fault+lines%2C+deep+trenches%2C+and+everything+past+low+earth+orbit;haven%27t+picked+a+lane+yet%2C+don%27t+plan+to+any+time+soon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&duration=3200&pause=1000&color=6FC7C1&center=true&vCenter=true&width=820&lines=debugging+network+traffic+until+the+anomaly+shows+itself;built+an+IDS%2C+then+wanted+to+know+why+it+missed+things;reading+about+fault+lines+and+ocean+currents+on+the+side;still+haven%27t+picked+a+specialty%2C+ask+me+again+next+semester" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -23,11 +23,29 @@
 
 ### about
 
-I finished my CS degree without ever picking one lane, because there was always another question worth chasing. Most of my applied work sits in **cybersecurity, distributed systems, and machine learning** — intrusion detection, fault-tolerant networks, models that learn from noisy signals. Outside of that, I read about ocean currents, fault lines, and deep space for no professional reason at all. Same instinct either way: find the anomaly, follow it until it makes sense.
+```bash
+$ whoami
+CSE undergraduate — cybersecurity, distributed systems, machine learning
+still deciding which one gets to be "the specialty"
+```
 
-- Best Paper Award, ICCCSP 2026 — paper accepted, IEEE SPICES 2026
+Most of my applied work is intrusion detection, fault-tolerant networks, and models that learn from messy signals. Outside of coursework, I end up reading about ocean currents and fault lines for no academic reason at all — same instinct either way, just find the anomaly and follow it until it makes sense.
+
+```yaml
+publications:
+  - title: "Enhancing IoT Intrusion Detection Through Hybrid Representation
+            Learning and Hierarchical Ensemble Modeling"
+    venue: ICCCSP 2026, Springer IFIP AICT
+    result: Best Paper Award
+
+  - title: "Phonology-Aware Cross-Lingual Adapter Transfer for Low-Resource
+            ASR: Telugu & Santhali"
+    venue: IEEE SPICES 2026
+    result: Accepted
+```
+
 - Went to the Space Hackathon and the Bharatiya Antariksh Hackathon mostly to be near aerospace work
-- Reading into contact-graph routing, low-resource ASR, and plate tectonics, roughly in that order of urgency
+- Currently reading into contact-graph routing, low-resource ASR, and plate tectonics, roughly in that order of urgency
 
 <br>
 
@@ -80,18 +98,15 @@ geology:       plate tectonics, seismic patterns
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sindhu7754&show_icons=true&theme=tokyonight&hide_border=true&bg_color=041016&title_color=6FC7C1&icon_color=6FC7C1&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhu7754&layout=compact&theme=tokyonight&hide_border=true&bg_color=041016&title_color=6FC7C1&text_color=c9d1d9" height="165"/>
+<img src="https://img.shields.io/github/followers/sindhu7754?style=for-the-badge&color=123B4F&labelColor=041016"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=123B4F&labelColor=041016&label=repos&query=public_repos&url=https://api.github.com/users/sindhu7754"/>
+<img src="https://img.shields.io/badge/last%20paper-IEEE%20SPICES%20%2726-123B4F?style=for-the-badge&labelColor=041016"/>
 
 </div>
 
 <br>
 
 <div align="center">
-
-<sub><i>"The sea, once it casts its spell, holds one in its net of wonder forever." — Jacques Cousteau</i></sub>
-
-<br><br>
 
 <a href="mailto:prathima7754@gmail.com"><img src="https://img.shields.io/badge/-prathima7754%40gmail.com-041016?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/prathima-sindhu-varshini-117723258/"><img src="https://img.shields.io/badge/-LinkedIn-0B2A3B?style=flat&logo=linkedin&logoColor=white" /></a>
