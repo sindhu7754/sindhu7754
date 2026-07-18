@@ -49,6 +49,33 @@ publications:
 
 <br>
 
+### featured projects
+
+```
+Delay-Tolerant Satellite Network Simulator
+  Contact-graph-based routing across a 20-satellite constellation.
+  Store-and-forward delivery through intermittent connectivity, benchmarked
+  under 0-30% link/node failure injection.
+
+AI-SOC — AI-Driven Security Incident Investigation Platform
+  Multi-layer threat detection: 3 rule-based detectors + 2 unsupervised
+  ML models (Isolation Forest, Autoencoder), correlated into incidents
+  mapped across 5 MITRE ATT&CK techniques. LLM agents for root-cause
+  analysis over a FastAPI + JWT/RBAC backend.
+
+Anomaly-Based Intrusion Detection in Edge Computing
+  VAE + XGBoost + LightGBM on the CIC-IoT-2023 dataset (46M+ records).
+  96% binary classification accuracy, 95% attack-family accuracy.
+  Best Paper Award, ICCCSP 2026.
+
+Automatic Speech Recognition for Low-Resource Languages
+  XLSR-53 + adapter-based transfer learning for Telugu and Santhali.
+  Hindi -> Telugu -> Santhali transfer, 11% CER on Telugu with under
+  6 hours of training data. Accepted, IEEE SPICES 2026.
+```
+
+<br>
+
 ### stack
 
 <div align="center">
@@ -97,7 +124,20 @@ geology:       plate tectonics, seismic patterns
 
 <br>
 
-### currently
+<br>
+
+### currently exploring
+
+```
+Delay-Tolerant Networking       Contact-Graph Routing
+Distributed Systems             Large Language Models
+Plate Tectonics                 Ocean Circulation
+Orbital Mechanics
+```
+
+<br>
+
+### connect
 
 <div align="center">
 
