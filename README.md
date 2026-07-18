@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub><code>// profile</code></sub>
+<sub><code>/code></sub>
 
 # S Prathima Sindhu Varshini
 
